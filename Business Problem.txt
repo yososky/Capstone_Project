@@ -1,0 +1,10 @@
+Phoenix is the capital city of Arizona and is located in the central region of the state. People may know it for its year-round sun, desert beauty, and world-class resorts and golf, but as the fifth-largest city in the U.S., it also offers sophisticated urbanscapes, southwest culture and lots of outdoor adventure.
+As the heart of Arizona, Phoenix having a huge amount of people working and living here. It is also the fifth-most populous city in the United States and the largest state capital by population, and the only state capital with a population of more than one million residents.
+Also,  lots of foreign visitors and immigrates come to live here. It has a mix of culture and people came come to multiple countries to live and open a restaurant right here. With its diverse cultures, comes diverse food items. There are many restaurants in New Delhi City, each belonging to different categories like Japanese, Italian, French, etc.
+So as part of this project, we will list and visualize all major parts of Phoenix .
+
+Questions that can be asked using the above-mentioned datasets
+What is the best location in Phoenix for Brunch?
+What places have the best restaurants in Phoenix ?
+Which areas have a large/small number of Brunch Market?
+Which is the best place to stay if I prefer Brunch?
